@@ -15,6 +15,7 @@ section{
    padding-right:5% ;
    padding-top: 0%;
    
+   
 }
 /* .sst{
   git  padding-right: 10px;
@@ -22,9 +23,11 @@ section{
 } */
 .half-width img{
      width: 180%;
+     box-shadow:10px 10px 20px rgb(69, 59, 73) ;
 }
 
 h3{
+    color: darkorange;
     width: 500px;
     margin-left: 200px;
 }
@@ -39,3 +42,37 @@ p{
     width: 100%;
     width: 450px;
 }
+
+.contact{
+    text-decoration: none;
+    background-image:linear-gradient(#ff4da6,#66a3ff) ;
+    padding:10px 40px ;
+    border-radius:5px ;
+    margin:500px;
+    
+}
+
+.GooD{
+    display: flex;
+}
+
+.singel{
+    color: darkred;
+
+}
+.astrum{
+    width: 50%;
+    padding-left: 5%;
+}
+  .astrum img{
+      width: 100%
+  } 
+  .link-button{
+      text-decoration: none;
+      background-image: linear-gradient(red,orange);
+      padding: 10px 40px;
+      border-radius: 5px;
+  }
+  #id{
+      font-size: 40px;
+  }
