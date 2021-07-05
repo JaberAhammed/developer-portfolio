@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Qahiri', sans-serif;
+font-family: 'Special Elite', cursive; 
+   text-align: center;              
+
+}
+section{
+    display: flex;
+   
+}
+.half-width{
+    margin-left: 10px;
+    width: 20%;
+    padding: 12%;
+   padding-right:5% ;
+   padding-top: 0%;
+   
+}
+.sst{
+    padding-right: 10px;
+}
+.half-width img{
+     width: 180%;
+}
+
+h3{
+    width: 500px;
+    margin-left: 200px;
+}
+
+.jakt{
+    text-align: justify;
+    margin: 25px;
+    padding: 20px 10px 20px;
+
+}
+p{
+    width: 100%;
+    width: 450px;
+}
